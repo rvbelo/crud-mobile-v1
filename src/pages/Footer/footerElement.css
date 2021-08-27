@@ -1,0 +1,13 @@
+.Footebar {
+  display: flexbox;
+  align-items: center;
+  background: #054A91;
+  width: 70%;
+  margin: auto;
+  text-align: center !important;
+  padding: 10px;
+}
+
+.Footebar span{
+  color: #FFFFFF;
+}

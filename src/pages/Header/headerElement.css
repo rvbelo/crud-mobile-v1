@@ -1,0 +1,20 @@
+.SidebarMenu {
+  display: flexbox;
+  align-items: center;
+  background: #054A91;
+  width: 70%;
+  margin: auto;
+  text-align: center !important;
+  padding: 10px;
+}
+
+.SidebarMenu .Logo_v{
+  color: #FFFFFF;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.SidebarMenu .material-icons{
+  color: #FFFFFF;
+  font-size: 30px;
+}
